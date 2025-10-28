@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
     <xs:annotation>
       <xs:documentation>This file creates the template for the inputing of 10 hotels, used within the XML File</xs:documentation>
     </xs:annotation>
@@ -43,4 +43,5 @@
         </xs:annotation>
         <xs:attribute name="NearestAirport" type="xs:string" use="required"/>
     </xs:complexType>
+
 </xs:schema>    
