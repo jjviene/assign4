@@ -1,0 +1,138 @@
+<?xml version='1.0'?>
+
+<!-- Error 1-->
+<!--All Hotel Information is taken from Google Maps within Vegas, expect the last one which is Tempe-->
+<Hotel>
+    <!-- Hotel Information: https://www.google.com/maps/place/Rio+Hotel+%26+Casino/@36.1155402,-115.199584,15z/data=!3m1!5s0x80c8c420f49dac83:0xa1d65d6bf78028cb!4m13!1m2!2m1!1shotels!3m9!1s0x80c8c42008eac25f:0x84edcfdf5b637ab5!5m2!4m1!1i2!8m2!3d36.1187296!4d-115.1866684!15sCgZob3RlbHOSAQxjYXNpbm9faG90ZWyqAToQASoKIgZob3RlbHMoADIeEAEiGop7IsRlUOdawyEcRgFmHULpw9a2Y2wsrtqgMgoQAiIGaG90ZWxz4AEA!16zL20vMDZ5OWY4?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D-->
+    <Hotel Rating="3.8">
+        <Name>Rio Hotel and Casino</Name>
+        <Phone>702-777-7777</Phone>
+        <Address NearestAirport="LAS">
+            <Number>3700</Number>
+            <Street>W Flamingo Rd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89103</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Error 2-->
+    <!-- Hotel Information: https://www.google.com/maps/place/Bellagio+Hotel+%26+Casino/@36.1155402,-115.199584,15z/data=!4m12!1m2!2m1!1shotels!3m8!1s0x80c8c430cb5147bd:0x82f2c7c5d9d10d84!5m2!4m1!1i2!8m2!3d36.1129455!4d-115.1765067!16zL20vMDMzYnhz?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D-->
+    <Hotel Rating="4.7">
+        <Name>Bellagio Hotel and Casino</Name>
+        <Phone>888-987-6667</Phone>
+        <Address>
+            <Number>3600</Number>
+            <Street>S Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Error 3-->
+    <!-- Hotel Information: https://www.google.com/maps/place/Paris+Las+Vegas/@36.1155402,-115.199584,15z/data=!3m1!5s0x80c8c43094c4819d:0x498c25bd56550acb!4m12!1m2!2m1!1shotels!3m8!1s0x80c8c36c00000001:0x4544b406fe1e5c01!5m2!4m1!1i2!8m2!3d36.112462!4d-115.1707075!16zL20vMDM0OHM2?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D -->
+    <Hotel Rating="4.3">
+        <Name>Paris Las Vegas</Name>
+        <Address NearestAirport="LAS">
+            <Number>3655</Number>
+            <Street>S Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Error 4-->
+    <!-- Hotel Information:  https://www.google.com/maps/place/Vdara+Hotel+%26+Spa/@36.1155402,-115.199584,15z/data=!3m1!5s0x80c8c42fcca55b97:0xa1d65d6b0b1a379b!4m12!1m2!2m1!1shotels!3m8!1s0x80c8c43599d7119b:0x2d6c29d4fa5b4511!5m2!4m1!1i2!8m2!3d36.109282!4d-115.1775327!16s%2Fm%2F080dtls?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D-->
+    <Hotel Rating="4.4">
+        <Name>Vdara Hotel and Spa</Name>
+        <Phone>866-745-7767</Phone>
+        <Address NearestAirport="LAS">
+            <Number>2600</Number>
+            <Street>W Harmon Ave</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+    </Hotel>
+
+    <!-- Hotel Information:  https://www.google.com/maps/place/Planet+Hollywood+Las+Vegas+Resort+%26+Casino/@36.1126627,-115.191988,15z/data=!3m1!5s0x80c8c4312e55848f:0xff95595e3640e30b!4m12!1m2!2m1!1shotels!3m8!1s0x80c8c43661d137ab:0x7c546576745a059c!5m2!4m1!1i2!8m2!3d36.1099696!4d-115.1700646!16zL20vMDVnNHAy?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D-->
+    <Hotel Rating="3.8">
+        <Name>Planet Hollywood Las Vegas Resort and Casino</Name>
+        <Phone>702-777-7777</Phone>
+        <Address NearestAirport="LAS">
+            <Number>3667</Number>
+            <Street>Las Vegas Blvd S</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel Information:  https://www.google.com/maps/place/MGM+Grand/@36.1126627,-115.191988,15z/data=!4m12!1m2!2m1!1shotels!3m8!1s0x80c8c5cc93820e25:0x9dd94505bd76107f!5m2!4m1!1i2!8m2!3d36.1036224!4d-115.1675744!16zL20vMDMzdnB5?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D-->
+    <Hotel>
+        <Name>MGM Grand</Name>
+        <Phone>877-880-0880</Phone>
+        <Address NearestAirport="LAS">
+            <Number>3799</Number>
+            <Street>S Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel Information:  https://www.google.com/maps/place/NoMad+Las+Vegas/@36.1126627,-115.191988,15z/data=!3m1!5s0x80c8c4328710eaef:0xa15cdb37421e460b!4m12!1m2!2m1!1shotels!3m8!1s0x80c8c43310d5707b:0x86d9b02dc4e04246!5m2!4m1!1i2!8m2!3d36.1047156!4d-115.1745899!16s%2Fg%2F11grc393z4?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D-->
+    <Hotel Rating="4.6">
+        <Name>NoMad Las Vegas</Name>
+        <Phone>702-777-7777</Phone>
+        <Address NearestAirport="LAS">
+            <Number>3772</Number>
+            <Street>S Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+        </Address>
+    </Hotel>
+    
+    <!-- Hotel Information:  https://www.google.com/maps/place/Caesars+Palace/@36.1126627,-115.191988,15z/data=!3m1!5s0x80c8c43c44ca7527:0x72ed99a24dac712b!4m12!1m2!2m1!1shotels!3m8!1s0x80c8c43c44cae095:0x77c9c8f2a2af3ff7!5m2!4m1!1i2!8m2!3d36.1172612!4d-115.176141!16zL20vMDNmejBt?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D-->
+    <Hotel Rating="4.5">
+        <Name>Caesars Palace</Name>
+        <Phone>866-227-5938</Phone>
+        <Address NearestAirport="LAS">
+            <Number>3570</Number>
+            <Street>S Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Error 5-->
+    <!-- Hotel Information:  https://www.google.com/maps/place/Best+Western+Plus+Casino+Royale%E2%80%93Center+Strip/@36.1126627,-115.191988,15z/data=!3m1!5s0x80c8c43c2ee30c95:0x23773fb5c3faba32!4m12!1m2!2m1!1shotels!3m8!1s0x80c8c43c28feebe3:0x26a3ab07454ba46!5m2!4m1!1i2!8m2!3d36.1202409!4d-115.1721333!16zL20vMDl2amxn?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D-->
+    <Hotel>
+        <Name>Best Western Plus Casino Royale</Name>
+        <Name>Best Western Plus Casino Royale Center Link</Name>
+        <Phone>702-737-3500</Phone>
+        <Address NearestAirport="LAS">
+            <Number>3441</Number>
+            <Street>S Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel Information:  https://www.google.com/maps/place/Canopy+by+Hilton+Tempe+Downtown/@33.4216096,-111.9482949,15.13z/data=!4m12!1m2!2m1!1shotels!3m8!1s0x872b097e9ae7e739:0x790b002db95af14d!5m2!4m1!1i2!8m2!3d33.4224437!4d-111.9372132!16s%2Fg%2F11fpqhngby?entry=ttu&g_ep=EgoyMDI1MTAyNi4wIKXMDSoASAFQAw%3D%3D-->
+    <Hotel Rating="4.4">
+        <Name>Canopy by Hilton Tempe Downtown</Name>
+        <Phone>480-968-6800</Phone>
+        <Address NearestAirport="PHX">
+            <Number>108</Number>
+            <Street>E University Dr</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+</Hotel>
