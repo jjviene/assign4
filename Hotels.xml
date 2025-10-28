@@ -19,6 +19,7 @@
     <Hotel Rating="4.7">
         <Name>Bellagio Hotel and Casino</Name>
         <Phone>888-987-6667</Phone>
+        <Phone>702-693-7111</Phone>
         <Address NearestAirport="LAS">
             <Number>3600</Number>
             <Street>S Las Vegas Blvd</Street>
